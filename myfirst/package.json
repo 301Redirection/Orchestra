@@ -29,5 +29,4 @@
   "jest": {
     "preset": "react-native"
   }
-  
 }
